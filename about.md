@@ -1,6 +1,5 @@
 ---
 title: About
-text: HellO WoRlD :(
 layout: default
 ---
 
